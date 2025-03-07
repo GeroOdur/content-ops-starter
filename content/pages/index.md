@@ -7,7 +7,7 @@ sections:
       text: Empowered Teachers
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock Your Teaching Potential
     text: >
       We have **empowered over 5,000 teachers** in the last **two years**
       through **academic seminars, both online and in-person, across 30
