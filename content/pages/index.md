@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Future-Ready
-        subtitle: Teachers
+        subtitle: ''
         text: >
           We have equipped thousands of educators with **technology skills** and
           **curriculum expertise**, preparing them to excel in today’s
