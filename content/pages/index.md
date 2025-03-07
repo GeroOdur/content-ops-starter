@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Empowered Teachers
+      text: Empowering Teachers
       color: text-dark
       type: TitleBlock
     subtitle: Unlock Your Teaching Potential
