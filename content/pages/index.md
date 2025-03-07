@@ -117,10 +117,10 @@ sections:
         type: FeaturedItem
       - title: Engaging Learning Resources
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our **YouTube content and academic seminars** have continuously
+          supported teachers with practical insights and strategies to enhance
+          their teaching effectiveness.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
