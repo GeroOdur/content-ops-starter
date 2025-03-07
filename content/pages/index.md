@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Future-Ready
+        title: Future-Ready Teachers
         subtitle: ''
         text: >
           We have equipped thousands of educators with **technology skills** and
