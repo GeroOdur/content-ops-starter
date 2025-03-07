@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Future-Ready
-        subtitle: Numbers Done
+        subtitle: Teachers
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
