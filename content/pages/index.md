@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Unlock Your Teaching Potential
     text: >
-      We have **empowered over 5,000 teachers** in the last **two years**
-      through **academic seminars, both online and in-person, across 30
-      districts in Uganda.**
+      We have empowered over 5,000 teachers in the last two years through
+      academic seminars, both online and in-person, across 30 districts in
+      Uganda.
     actions:
       - label: Get started
         altText: ''
