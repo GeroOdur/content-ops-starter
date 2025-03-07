@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Transforming Education
       color: text-primary
       type: Badge
     elementId: ''
