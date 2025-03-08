@@ -508,7 +508,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Sinai Resource Group
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: This is the Sinai Resource Group Website
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
