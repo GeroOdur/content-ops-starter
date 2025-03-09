@@ -1,7 +1,7 @@
 ---
 title: EdTech Field Research
 slug: case-study-3
-date: ''
+date: '2021-11-07'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
