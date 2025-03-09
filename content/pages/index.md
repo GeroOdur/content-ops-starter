@@ -296,7 +296,7 @@ sections:
 seo:
   metaTitle: Home - Sinai Resource Group
   metaDescription: This is the Sinai Resource Group Website
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/20230508_095452.jpg
   type: Seo
 type: PageLayout
 ---
