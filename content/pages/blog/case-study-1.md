@@ -1,7 +1,7 @@
 ---
 title: Physical Training Sessions
 slug: case-study-1
-date: '2024-03-07'
+date: '2024-03-17'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
