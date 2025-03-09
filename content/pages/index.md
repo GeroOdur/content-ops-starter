@@ -295,7 +295,9 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Sinai Resource Group
-  metaDescription: This is the Sinai Resource Group Website
+  metaDescription: >-
+    Sinai Resource Group: Empowering educators through training, technology, and
+    research to transform learning
   socialImage: /images/20230508_095452.jpg
   type: Seo
 type: PageLayout
