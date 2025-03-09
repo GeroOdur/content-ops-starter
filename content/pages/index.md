@@ -199,7 +199,7 @@ sections:
     text: "<div style=\"text-align: center\">We’ve helped educators and organizations accelerate learning through hands-on training, digital resources, and expert-led workshops. Our proven approach ensures faster skill adoption, making teams more efficient and adaptable in today’s fast-changing world. \U0001F680</div>\n\n"
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=ZAvs6KG3dQs&t=27s'
       controls: false
       aspectRatio: '16:9'
       styles:
