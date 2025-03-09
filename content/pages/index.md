@@ -439,7 +439,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: "\U0001F4E9 Get in Touch with Us!"
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
