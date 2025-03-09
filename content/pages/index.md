@@ -195,7 +195,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitl
+    subtitle: ''
     text: "We’ve helped educators and organizations accelerate learning through hands-on training, digital resources, and expert-led workshops. Our proven approach ensures faster skill adoption, making teams more efficient and adaptable in today’s fast-changing world. \U0001F680\n"
     media:
       title: Title of the video
