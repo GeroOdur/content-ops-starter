@@ -442,7 +442,7 @@ sections:
       text: "\U0001F4E9 Get in Touch with Us!"
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: "Have questions or want to learn more about how Sinai Resource Group can support your teaching journey? Fill out the form below, and our team will get back to you as soon as possible.\n\n*   \U0001F539 Need more details about our **teacher empowerment programs**?\n\n*   \U0001F539 Interested in **teacher placements or internships**?\n\n*   \U0001F539 Looking for **collaborations or partnerships**?\n\nWe’re here to help! Simply leave us a message, and we’ll reach out shortly.\n"
     media:
       fields:
