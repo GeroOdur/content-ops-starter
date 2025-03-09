@@ -443,7 +443,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: "Have questions or want to learn more about how Sinai Resource Group can support your teaching journey? Fill out the form below, and our team will get back to you as soon as possible.\n\n<sup>\U0001F539 Need more details about our </sup>**<sup>teacher empowerment programs</sup>**<sup>?</sup>\n\n<sup>\U0001F539 Interested in </sup>**<sup>teacher placements or internships</sup>**<sup>?</sup>\n\n<sup>\U0001F539 Looking for </sup>**<sup>collaborations or partnerships</sup>**<sup>?</sup>\n\n"
+    text: "Have questions or want to learn more about how Sinai Resource Group can support your teaching journey? Fill out the form below, and our team will get back to you as soon as possible.\n\n\U0001F539 Need more details about our **teacher empowerment programs**?\n\U0001F539 Interested in **teacher placements or internships**?\n\U0001F539 Looking for **collaborations or partnerships**?\n\nWe’re here to help! Simply leave us a message, and we’ll reach out shortly.\n"
     media:
       fields:
         - name: name
