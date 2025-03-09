@@ -196,11 +196,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitl
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "We’ve helped educators and organizations accelerate learning through hands-on training, digital resources, and expert-led workshops. Our proven approach ensures faster skill adoption, making teams more efficient and adaptable in today’s fast-changing world. \U0001F680\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
