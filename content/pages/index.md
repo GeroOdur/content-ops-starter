@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: 'Educators Who Lead: Curriculum First, Tech Next'
         tagline: Teacher Training
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           We empower educators with strong curriculum mastery as the foundation
           for effective teaching, while integrating essential IT skills to
