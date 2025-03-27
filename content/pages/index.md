@@ -34,7 +34,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Register Now
             altText: ''
             url: 'https://forms.gle/a3Heet11PViLYtYP7'
             showIcon: false
