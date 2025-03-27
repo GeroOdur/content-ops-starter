@@ -32,7 +32,16 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://forms.gle/a3Heet11PViLYtYP7'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
