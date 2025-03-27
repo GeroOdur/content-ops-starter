@@ -8,10 +8,10 @@ sections:
         title: "Free\_Teaching Mentorship & Internship!"
         tagline: Feature 1
         subtitle: Increase your reach
-        text: |+
-          ```
-          ```
-
+        text: >
+          Are you a **teacher** or an **education student** looking to boost
+          your skills and secure a job? This training equips you with
+          **curriculum mastery & IT skills**—highly sought after by schools!
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
