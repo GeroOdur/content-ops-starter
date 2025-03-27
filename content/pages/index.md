@@ -8,7 +8,23 @@ sections:
         title: "Free\_Teaching Mentorship & Internship!"
         tagline: Feature 1
         subtitle: ''
-        text: "Are you a **teacher** or an **education student** looking to boost your skills and secure a job? This training equips you with **curriculum mastery & IT skills**—highly sought after by schools!\n\n<sub>✅ Secondary teachers – Explore primary school teaching opportunities.\n✅ Nursery & primary teachers – Gain skills to stand out and get hired.\n✅ University students (2nd/3rd year & Master’s) – Get hands-on training & school placements.</sub>\n\n<sub>\U0001F3AF Placement support available!</sub>\n"
+        text: >+
+          Are you a **teacher** or an **education student** looking to boost
+          your skills and secure a job? This training equips you with
+          **curriculum mastery & IT skills**—highly sought after by schools!
+
+
+          *   <sub>✅ Secondary teachers – Explore primary school teaching
+          opportunities.</sub>
+
+
+          *   <sub>✅ Nursery & primary teachers – Gain skills to stand out and
+          get hired.</sub>
+
+
+          *   <sub>✅ University students (2nd/3rd year & Master’s) – Get
+          hands-on training & school placements.</sub>
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
