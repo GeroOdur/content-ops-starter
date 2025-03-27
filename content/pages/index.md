@@ -49,7 +49,7 @@ sections:
           education, ready to excel in today’s dynamic classrooms.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-03-27 at 21.13.51.png
           altText: Placeholder text
           styles:
             self:
