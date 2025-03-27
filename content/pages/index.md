@@ -27,7 +27,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Screenshot 2025-03-27 at 20.46.40.png
           altText: Featured item
           styles:
             self:
