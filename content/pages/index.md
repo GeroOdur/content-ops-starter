@@ -42,8 +42,11 @@ sections:
         title: 'Educators Who Lead: Curriculum First, Tech Next'
         tagline: Teacher Training
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We empower educators with strong curriculum mastery as the foundation
+          for effective teaching, while integrating essential IT skills to
+          enhance learning. This ensures that teachers become leaders in modern
+          education, ready to excel in today’s dynamic classrooms.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
