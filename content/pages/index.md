@@ -90,7 +90,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/20230508_095452.jpg
+      url: /images/Screenshot 2025-03-27 at 21.02.48.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
