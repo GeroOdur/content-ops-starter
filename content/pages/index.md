@@ -50,7 +50,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-03-27 at 21.13.51.png
-          altText: Placeholder text
+          altText: 'Photo by '
           styles:
             self:
               borderRadius: x-large
