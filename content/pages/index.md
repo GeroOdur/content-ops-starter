@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: "Free\_Teaching Mentorship & Internship!"
-        tagline: Feature 1
+        tagline: Free Teacher Training
         subtitle: ''
         text: "Are you a **teacher** or an **education student** looking to boost your skills and secure a job? This training equips you with **curriculum mastery & IT skills**—highly sought after by schools!\n\n✅ Secondary teachers – Explore primary school teaching opportunities.\n\n✅ Nursery & primary teachers – Gain skills to stand out and get hired.\n\n✅ University students (2nd/3rd year & Master’s) – Get hands-on training & school placements.\n\n\U0001F3AF **Placement support available!**\n"
         image:
