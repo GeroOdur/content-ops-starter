@@ -8,12 +8,9 @@ sections:
         title: "Free\_Teaching Mentorship & Internship!"
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >+
-          [Are you a nursery, primary, or secondary teacher looking to improve
-          your skills and secure a job? Or are you a 2nd or 3rd-year university
-          student pursuing a degree in education looking to gain practical
-          skills and real school experience? This training is for
-          you](https://forms.gle/a3Heet11PViLYtYP7)
+        text: |+
+          ```
+          ```
 
         image:
           type: ImageBlock
