@@ -40,7 +40,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Teacher Training
-        tagline: This is the tagline
+        tagline: Teacher Training
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
