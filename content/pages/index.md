@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: "Free\_Teaching Mentorship & Internship!"
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >
           Are you a **teacher** or an **education student** looking to boost
           your skills and secure a job? This training equips you with
