@@ -39,7 +39,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Teacher Training
+        title: 'Educators Who Lead: Curriculum First, Tech Next'
         tagline: Teacher Training
         subtitle: This is the item subtitle
         text: |
