@@ -8,10 +8,7 @@ sections:
         title: "Free\_Teaching Mentorship & Internship!"
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Are you a nursery, primary, or secondary teacher looking to improve your skills and secure a job? Or are you a 2nd or 3rd-year university student pursuing a degree in education looking to gain practical skills and real school experience? This training is for you!\n\n✅ For Secondary Teachers – Want to try primary school teaching? Many schools are hiring!\n✅ For Nursery & Primary Teachers – Gain key skills to stand out and get hired.\n✅ For University & Master’s Students – Get hands-on training and placement opportunities.\n✅ Placement Support – We connect trained teachers to schools actively looking for skilled educators.\n\nDon’t miss this chance to grow and secure your future!\n\n[\U0001F4E9 Register with this link! \U0001F680](https://forms.gle/a3Heet11PViLYtYP7)\n"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
