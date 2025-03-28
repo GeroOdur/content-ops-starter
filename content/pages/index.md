@@ -23,7 +23,7 @@ sections:
             url: 'https://forms.gle/a3Heet11PViLYtYP7'
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
