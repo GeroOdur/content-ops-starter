@@ -35,7 +35,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: x-large
             flexDirection: row
             justifyContent: center
             borderColor: border-neutral
