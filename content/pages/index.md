@@ -38,7 +38,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-            borderColor: border-light
+            borderColor: border-neutral
       - type: FeaturedItem
         title: 'Educators Who Lead: Curriculum First, Tech Next'
         tagline: Teacher Training
