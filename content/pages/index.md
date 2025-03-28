@@ -24,7 +24,7 @@ sections:
             showIcon: false
             icon: arrowRight
             iconPosition: left
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-light-fg-dark
         styles:
